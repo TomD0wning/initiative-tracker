@@ -1,0 +1,12 @@
+.character-card {
+    background: #F3F3F3;
+    padding: 20px;
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .character-card .user-card {
+    width: 150px;
+    height: 100%;
+    position: relative;
+    float: left;
+  }
